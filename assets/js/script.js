@@ -1,7 +1,9 @@
+import "../css/style.css";
 import $ from "jquery";
-import 'bootstrap-css-only';
 import gNews from './modules/gNews';
 import { newsTemplate } from './modules/templates';
+
+
 
 const getSocialNews = async () => {
   try {
