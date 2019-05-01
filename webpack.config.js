@@ -5,7 +5,7 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 module.exports = {
   entry: {
     polyfill: "babel-polyfill",
-    bundle: "./assets/js/app.js"
+    bundle: "./assets/js/script.js"
   },
   output: {
     path: path.join(__dirname, "./dist"),

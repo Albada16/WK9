@@ -1,7 +1,7 @@
 {
-  "name": "H1_JSONServer",
+  "name": "WK9",
   "version": "1.0.0",
-  "description": "",
+  "description": "WK9",
   "main": "index.js",
   "scripts": {
     "json": "json-server --watch -p 4000 db.json",
